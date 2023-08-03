@@ -1,0 +1,9 @@
+.text-center {
+    text-align: center;
+}
+li {
+    list-style: none;
+}
+ul {
+    padding-left: 0;
+}
